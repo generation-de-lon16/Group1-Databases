@@ -1,0 +1,5 @@
+Cloud computing allows users to access computing services like storage, databases, and servers over the internet instead of using local infrastructure. 
+
+Amazon Web Services (AWS) is a cloud platform that offers a wide range of services for businesses and developers, including tools for compute, storage, analytics, and databases.
+
+This file explores different AWS database services:
