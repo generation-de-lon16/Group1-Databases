@@ -1,1 +1,0 @@
-AWS Managed Services provides ongoing management of your AWS infrastructure so you can focus on your applications. 
