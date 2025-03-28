@@ -6,3 +6,5 @@ Amazon Web Services (AWS) is a cloud platform that offers a wide range of servic
 This file explores different AWS database services:
 
 1. Customer enablement: AWS Managed Services provides ongoing management of your AWS infrastructure so you can focus on your applications. 
+2. Amazon Redshift: A cloud data warehouse service that allows you to run complex queries across petabytes of structured data for analytics and reporting.
+
